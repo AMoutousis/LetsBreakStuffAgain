@@ -6,7 +6,7 @@ namespace LetsBreakStuffAgain
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lets break stuff properly this time... Andoni ;(");
+            Console.WriteLine("Lets break stuff properly this time... Andoni ;( but I tried my hardest!");
         }
     }
 }
